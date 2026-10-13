@@ -1,0 +1,12 @@
+# データ
+input/
+output/
+work/
+
+# 秘密情報
+.env
+
+# キャッシュ・仮想環境
+__pycache__/
+*.pyc
+.venv/
